@@ -1,3 +1,7 @@
-text = """
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate illo nemo consequuntur nesciunt minus corporis dignissimos molestiae, debitis voluptates perferendis quisquam assumenda animi. Reiciendis quisquam ipsum non quidem nostrum soluta?
-"""
+print("-" * 30)
+print(f"{'BLACK FRYDAY':^30}")
+print(f"{'SALE IN HERE!':^30}")
+print("-" * 30)
+print(f"{'YOUR NEW SKILLS:':^30}")
+print("DESCR.")
+print("-" * 30)
